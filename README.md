@@ -23,5 +23,7 @@ O sistema inclui uma função para cancelar uma ação e limpar a lista de amigo
 - **JavaScript**: Funcionalidade e lógica do sorteio.
 
 ## Resultado
-https://github.com/user-attachments/assets/1e1a9559-2595-42d6-abea-26b7a5169c2f
+https://github.com/user-attachments/assets/5b19f137-ea06-4b4f-a142-b97cffddc409
+
+
 
